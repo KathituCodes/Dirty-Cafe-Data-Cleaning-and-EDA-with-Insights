@@ -3,6 +3,8 @@
 This is a systematic, documented data cleaning and EDA pipeline applied to a 10,000-row intentionally corrupted cafe sales dataset. The project demonstrates multi-layered handling of real-world data quality problems: type corruption, placeholder errors, missing value imputation via unit-economics logic and distribution-preserving sampling, outlier validation, and business-context analysis.
 
 ---
+## Live Demo : https://dirty-cafe-data-cleaning-and-eda-with-app-dashboard-pidwy9biqm.streamlit.app/ 
+---
 
 ## Project Objectives
 
